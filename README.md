@@ -10,7 +10,9 @@
 
 ---
 <div align="center">
+ 
 ## Experience
+ 
  </div>
  
 ```php
@@ -35,7 +37,9 @@ class About extends Me {
             
 ---
 <div align="center">
+ 
 ## Technical skills
+ 
  </div>
  
 ```php
@@ -56,8 +60,10 @@ class About extends Me {
 
 ---
 <div align="center">
+ 
 ## Technologies 
  </div>
+ 
  
 ```php
 <?php
