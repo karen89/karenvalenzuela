@@ -23,7 +23,7 @@ class About extends Me {
         return [
             Requirement Analysis::class,
             Search for Ambiguities::class,
-            Test matrix::class,
+            Test Matrix::class,
             Test Case Design::class,
             Execution of Test Cases::class,
             Defect Report::class,
@@ -49,9 +49,9 @@ class About extends Me {
     public function getTechnicalSkills(): array {
         return [            
             Smoke Tests::class,
-            Exploratory tests::class,
-            Regression tests::class,
-            API tests::class
+            Exploratory Tests::class,
+            Regression Tests::class,
+            API Tests::class
         ];
     }
 }
