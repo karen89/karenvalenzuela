@@ -74,7 +74,8 @@ class About extends Me {
             Azure DevOps TestPlan::class,
             Test & Feedback plugin::class,
             Postman::class,
-            SQL::class
+            SQL::class,
+            GIT::class
         ];
     }
 }
