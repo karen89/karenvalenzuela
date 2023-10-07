@@ -2,9 +2,11 @@
 
 ## About me
 
-🌟 QA Engineer since 2020.
+👩‍💻 Software Engineer
 
- ✍🏼 Web Developer in progress
+🌟 QA Engineer since 2020
+
+ ✍🏼 Web Developer in progress...
 
 </div>
 
@@ -19,7 +21,7 @@
 <?php
 namespace karenvalenzuela;
 class About extends Me {
-    public function getExperience(): array {
+    public function getQAExperience(): array {
         return [
             Requirement Analysis::class,
             Search for Ambiguities::class,
@@ -46,7 +48,7 @@ class About extends Me {
 <?php
 namespace karenvalenzuela;
 class About extends Me {
-    public function getTechnicalSkills(): array {
+    public function getQATechnicalSkills(): array {
         return [            
             Smoke Tests::class,
             Exploratory Tests::class,
