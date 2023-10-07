@@ -4,7 +4,7 @@
 
 🌟 QA Engineer since 2020.
 
- ✍🏼 Java Developer in progress
+ ✍🏼 Web Developer in progress
 
 </div>
 
