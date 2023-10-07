@@ -4,7 +4,7 @@
 
 🌟 QA Engineer since 2020.
 
- ✍🏼 Writer in my personal blog [karenvltics](https://karenvltics.blogspot.com/).
+ ✍🏼 Java Developer in progress
 
 </div>
 
