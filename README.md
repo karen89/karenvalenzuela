@@ -6,7 +6,7 @@
 
 🌟 QA Engineer since 2020
 
- ✍🏼 Web Developer in progress...
+ ✍🏼 FullStack Java Developer Jr
 
 </div>
 
